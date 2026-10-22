@@ -136,6 +136,10 @@ textarea:focus {
         display: flex; 
         flex-direction: column; gap: .5rem; 
     }
+
+    .card {
+       padding: var(--space-2, 1rem);
+       }
 .card h2, .card p {
      margin: 0; 
     }
